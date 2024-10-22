@@ -12,15 +12,14 @@ The classic "Rock, Paper, Scissors" game allows users to play against the comput
 - Play again option
 
 ## Technologies
-- Python / JavaScript / Java (mention the language used)
+- Python 
 
 ## How to Run
 1. Clone or download the repository.
 2. Navigate to the project directory.
 3. Run the script:
-   - For Python: `python rock_paper_scissors.py`
-   - For JavaScript: Open `index.html` in your browser
-   - For Java: Compile and run `RockPaperScissors.java`
+   -`python rock_paper_scissors.py`
+  
 
 ---
 
@@ -38,16 +37,12 @@ The Contact Manager application allows users to store, view, and manage their co
 
 ## Technologies
 - Python (Tkinter for GUI)
-- Java (JFrame for GUI)
-- JavaScript (HTML/CSS for frontend, LocalStorage or a database for backend)
 
 ## How to Run
 1. Clone or download the repository.
 2. Navigate to the project directory.
 3. Run the script:
-   - For Python: `python contact_manager.py`
-   - For Java: Compile and run `ContactManager.java`
-   - For Web: Open `index.html` in your browser
+   - `python contact_manager.py`
 
 ---
 
@@ -63,16 +58,12 @@ A simple calculator application that performs basic arithmetic operations like a
 
 ## Technologies
 - Python (Tkinter for GUI)
-- Java (JFrame for GUI)
-- JavaScript (HTML/CSS/JS for Web)
 
 ## How to Run
 1. Clone or download the repository.
 2. Navigate to the project directory.
 3. Run the script:
-   - For Python: `python calculator.py`
-   - For Java: Compile and run `Calculator.java`
-   - For Web: Open `index.html` in your browser
+   - `python calculator.py`
 
 ---
 
@@ -88,14 +79,12 @@ The Password Generator creates secure, random passwords based on user preference
 
 ## Technologies
 - Python (Tkinter for GUI)
-- JavaScript (HTML/CSS/JS for Web)
 
 ## How to Run
 1. Clone or download the repository.
 2. Navigate to the project directory.
 3. Run the script:
-   - For Python: `python password_generator.py`
-   - For Web: Open `index.html` in your browser
+-`python password_generator.py`
 
 ---
 
@@ -112,14 +101,12 @@ The ToDo List is a task management application that allows users to add, view, m
 
 ## Technologies
 - Python (Tkinter for GUI)
-- JavaScript (HTML/CSS/JS for Web)
 
 ## How to Run
 1. Clone or download the repository.
 2. Navigate to the project directory.
 3. Run the script:
-   - For Python: `python todo_list.py`
-   - For Web: Open `index.html` in your browser
+   - `python todo_list.py`
 
 ---
 
